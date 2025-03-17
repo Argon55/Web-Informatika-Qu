@@ -1,0 +1,120 @@
+.btn {
+  width: 140px;
+  height: 40px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #FF0000;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
+
+.btn:hover {
+  transition: 1s ease-in-out;
+  background: #FF0000;
+}
+
+.btn:hover svg {
+  stroke-dashoffset: -480;
+}
+
+.btn span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.btn-out {
+  width: 140px;
+  height: 40px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #FF0000;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
+
+.btn-out:hover {
+  transition: 1s ease-in-out;
+  background: #FF0000;
+}
+
+.btn-out:hover svg {
+  stroke-dashoffset: -480;
+}
+
+.btn-out span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.btn-start {
+  width: 180px;
+  height: 40px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #50C878;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
+
+.btn-start:hover {
+  transition: 1s ease-in-out;
+  background: #39FF14;
+}
+
+.btn-start span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+
+
+.btn-login {
+  width: 180px;
+  height: 40px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #20B2AA;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
+
+.btn-login:hover {
+  transition: 1s ease-in-out;
+  background: #20B2AA;
+}
+
+.btn-login span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+
+.btn-register {
+  width: 180px;
+  height: 40px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #50C878;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+
+
+.btn-register:hover {
+  transition: 1s ease-in-out;
+  background: #39FF14;
+}
+
+.btn-register span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+}

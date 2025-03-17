@@ -1,0 +1,99 @@
+.l-bg-pesan {
+    background: linear-gradient(to right, #2C3531, #20B2AA) !important;
+    color: #fff;
+}
+
+.l-bg-sidebar {
+    text: 
+    color: #fff;
+}
+
+.l-bg-table {
+    background: linear-gradient(to right, #023415, #20B2AA) !important;
+    color: #fff;
+}
+
+.l-bg-c1 {
+    background: linear-gradient(to right, #0000FF, #1884B9) !important;
+    color: #fff;
+}
+
+.l-bg-c2 {
+    background: linear-gradient(to right, #1884B9, #20B2AA) !important;
+    color: #fff;
+}
+
+.l-bg-c3 {
+    background: linear-gradient(to right, #20B2AA, #047A1E) !important;
+    color: #fff;
+}
+
+.l-bg-c4 {
+    background: linear-gradient(to right, #047A1E, #145154) !important;
+    color: #fff;
+}
+
+.l-bg-visitor {
+    background: linear-gradient(to right, #06443E, #048A7D) !important;
+    color: #fff;
+}
+
+.l-bg-user {
+    background: linear-gradient(to right, #048A7D, #0D0E0D) !important;
+    color: #fff;
+}
+
+.l-bg-alternatif {
+    background: linear-gradient(to right, #0D0E0D, #037627) !important;
+    color: #fff;
+}
+
+.l-bg-kriteria {
+    background: linear-gradient(to right, #037627, #013712) !important;
+    color: #fff;
+}
+
+.card .card-statistic-3 .card-icon-large .fas, .card .card-statistic-3 .card-icon-large .far, .card .card-statistic-3 .card-icon-large .fab, .card .card-statistic-3 .card-icon-large .fal {
+    font-size: 110px;
+}
+
+.card .card-statistic-3 .card-icon {
+    text-align: center;
+    line-height: 50px;
+    margin-left: 0px;
+    color: #FFFFFF;
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    opacity: 0.20;
+}
+
+.l-bg-nav {
+    background: linear-gradient(135deg, #79AF74, #FFFFFF) !important;
+    color: #fff;
+}
+
+.l-bg-green {
+    background: linear-gradient(135deg, #79AF74, #FFFFFF) !important;
+    color: #fff;
+}
+
+.l-bg-dark1 {
+    background: linear-gradient(135deg, #FFFFFF, #070707) !important;
+    color: #fff;
+}
+
+.l-bg-dark2 {
+    background: linear-gradient(to right, #070707, #FFFFFF) !important;
+    color: #fff;
+}
+
+.l-bg-blue {
+    background: linear-gradient(135deg, #FFFFFF, #84c0ec) !important;
+    color: #fff;
+}
+
+.l-bg-content {
+    background-image: url(assets/img/tugu.jpg);
+}
+
